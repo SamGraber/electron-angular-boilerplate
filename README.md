@@ -79,12 +79,12 @@ Directory Structure
 ```
 /
 ├── .tmp
-│   ├── dist              # location for compiled Angular2 App files
+│   ├── dist              # location for compiled Angular App files
 │   ├── typings           # location for DefinitelyTyped files
 │   └── serve             # location for compiled Electron App files
 ├── gulp                  # gulp tasks
-├── src                   # Angular2 Application src dir
-│   ├── app               # main module for Angular2 Application
+├── src                   # Angular Application src dir
+│   ├── app               # main module for Angular Application
 │   ├── index.dev.html    # entry point (development)
 │   ├── index.html        # entry point (production)
 │   ├── jspm.config.js    # JSPM config file
